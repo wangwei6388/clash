@@ -39,6 +39,32 @@ http://192.168.0.100:4000/rtp/238.1.78.178:7296
 https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="央视", 中天新聞台
 https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv009
+#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
+http://192.168.0.100:4000/rtp/238.1.78.124:6864
+#EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="其他",阜阳公共
+http://192.168.0.100:4000/rtp/238.1.78.125:6872
+#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="其他",阜阳教育
+http://192.168.0.100:4000/rtp/238.1.78.126:6880
+#EXTINF:-1,tvg-id="阜阳都市" tvg-name="阜阳都市" tvg-logo="https://epg.112114.xyz/logo/阜阳都市.png" group-title="其他",阜阳都市
+http://192.168.0.100:4000/rtp/238.1.78.127:6888
+#EXTINF:-1,tvg-id="颍上新闻" tvg-name="颍上新闻" tvg-logo="https://epg.112114.xyz/logo/颍上新闻.png" group-title="其他",颍上新闻
+http://192.168.0.100:4000/rtp/238.1.78.194:7424
+#EXTINF:-1,tvg-id="界首综合" tvg-name="界首综合" tvg-logo="https://epg.112114.xyz/logo/界首综合.png" group-title="其他",界首综合
+http://192.168.0.100:4000/rtp/238.1.78.195:7432
+#EXTINF:-1,tvg-id="临泉新闻" tvg-name="临泉新闻" tvg-logo="https://epg.112114.xyz/logo/临泉新闻.png" group-title="其他",临泉新闻
+http://192.168.0.100:4000/rtp/238.1.78.29:6160
+#EXTINF:-1,tvg-id="阜南新闻" tvg-name="阜南新闻" tvg-logo="https://epg.112114.xyz/logo/阜南新闻.png" group-title="其他",阜南新闻
+http://192.168.0.100:4000/rtp/238.1.79.11:4200
+#EXTINF:-1,tvg-id="亳州综合" tvg-name="亳州综合" tvg-logo="https://epg.112114.xyz/logo/亳州综合.png" group-title="其他",亳州综合
+http://192.168.0.100:4000/rtp/238.1.78.128:6896
+#EXTINF:-1,tvg-id="亳州农村" tvg-name="亳州农村" tvg-logo="https://epg.112114.xyz/logo/亳州农村.png" group-title="其他",亳州农村
+http://192.168.0.100:4000/rtp/238.1.78.129:6904
+#EXTINF:-1,tvg-id="利辛新闻" tvg-name="利辛新闻" tvg-logo="https://epg.112114.xyz/logo/利辛新闻.png" group-title="其他",利辛新闻
+http://192.168.0.100:4000/rtp/238.1.78.196:7440
+#EXTINF:-1,tvg-id="涡阳新闻" tvg-name="涡阳新闻" tvg-logo="https://epg.112114.xyz/logo/涡阳新闻.png" group-title="其他",涡阳新闻
+http://192.168.0.100:4000/rtp/238.1.78.197:7448
+#EXTINF:-1,tvg-id="蒙城新闻" tvg-name="蒙城新闻" tvg-logo="https://epg.112114.xyz/logo/蒙城新闻.png" group-title="其他",蒙城新闻
+http://192.168.0.100:4000/rtp/238.1.79.19:4264
 #EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://epg.112114.xyz/logo/安徽经济生活.png" group-title="安徽",安徽经济HD
 http://192.168.0.100:4000/rtp/238.1.79.44:4464
 #EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="安徽",安徽影视HD
@@ -301,32 +327,6 @@ http://192.168.0.100:4000/rtp/238.1.78.181:7320
 http://192.168.0.100:4000/rtp/238.1.79.52:4528
 #EXTINF:-1,tvg-id="固镇新闻" tvg-name="固镇新闻" tvg-logo="https://epg.112114.xyz/logo/固镇新闻.png" group-title="其他",固镇新闻
 http://192.168.0.100:4000/rtp/238.1.79.47:4488
-#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
-http://192.168.0.100:4000/rtp/238.1.78.124:6864
-#EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="其他",阜阳公共
-http://192.168.0.100:4000/rtp/238.1.78.125:6872
-#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" tvg-logo="https://epg.112114.xyz/logo/阜阳教育.png" group-title="其他",阜阳教育
-http://192.168.0.100:4000/rtp/238.1.78.126:6880
-#EXTINF:-1,tvg-id="阜阳都市" tvg-name="阜阳都市" tvg-logo="https://epg.112114.xyz/logo/阜阳都市.png" group-title="其他",阜阳都市
-http://192.168.0.100:4000/rtp/238.1.78.127:6888
-#EXTINF:-1,tvg-id="颍上新闻" tvg-name="颍上新闻" tvg-logo="https://epg.112114.xyz/logo/颍上新闻.png" group-title="其他",颍上新闻
-http://192.168.0.100:4000/rtp/238.1.78.194:7424
-#EXTINF:-1,tvg-id="界首综合" tvg-name="界首综合" tvg-logo="https://epg.112114.xyz/logo/界首综合.png" group-title="其他",界首综合
-http://192.168.0.100:4000/rtp/238.1.78.195:7432
-#EXTINF:-1,tvg-id="临泉新闻" tvg-name="临泉新闻" tvg-logo="https://epg.112114.xyz/logo/临泉新闻.png" group-title="其他",临泉新闻
-http://192.168.0.100:4000/rtp/238.1.78.29:6160
-#EXTINF:-1,tvg-id="阜南新闻" tvg-name="阜南新闻" tvg-logo="https://epg.112114.xyz/logo/阜南新闻.png" group-title="其他",阜南新闻
-http://192.168.0.100:4000/rtp/238.1.79.11:4200
-#EXTINF:-1,tvg-id="亳州综合" tvg-name="亳州综合" tvg-logo="https://epg.112114.xyz/logo/亳州综合.png" group-title="其他",亳州综合
-http://192.168.0.100:4000/rtp/238.1.78.128:6896
-#EXTINF:-1,tvg-id="亳州农村" tvg-name="亳州农村" tvg-logo="https://epg.112114.xyz/logo/亳州农村.png" group-title="其他",亳州农村
-http://192.168.0.100:4000/rtp/238.1.78.129:6904
-#EXTINF:-1,tvg-id="利辛新闻" tvg-name="利辛新闻" tvg-logo="https://epg.112114.xyz/logo/利辛新闻.png" group-title="其他",利辛新闻
-http://192.168.0.100:4000/rtp/238.1.78.196:7440
-#EXTINF:-1,tvg-id="涡阳新闻" tvg-name="涡阳新闻" tvg-logo="https://epg.112114.xyz/logo/涡阳新闻.png" group-title="其他",涡阳新闻
-http://192.168.0.100:4000/rtp/238.1.78.197:7448
-#EXTINF:-1,tvg-id="蒙城新闻" tvg-name="蒙城新闻" tvg-logo="https://epg.112114.xyz/logo/蒙城新闻.png" group-title="其他",蒙城新闻
-http://192.168.0.100:4000/rtp/238.1.79.19:4264
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="央视",CCTV央视文化HD
 http://192.168.0.100:4000/rtp/238.1.79.54:4568
 #EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="央视",CCTV女性时尚HD
