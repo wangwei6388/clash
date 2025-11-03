@@ -36,9 +36,9 @@ http://live.wqwqwq.sbs/ysptp/cctv16.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.0.100:4000/rtp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="央视",TVBS HD
-https://kan.dawei.eu.org/?id=183
+https://kan.dawei.eu.org/?id=VFZCUwxx&auth=2254b2c0831eb5d9f86757d0627daa62afd3bd27d21111a183233bb5be1c7a4240810b143389a9ff1a7b98edd0e1685f
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="央视", 中天新聞台
-https://kan.dawei.eu.org/?id=30
+https://kan.dawei.eu.org/?id=5Lit5aSp5paw6IGe5Yaw&auth=2254b2c0831eb5d9f86757d0627daa62afd3bd27d21111a183233bb5be1c7a4240810b143389a9ff1a7b98edd0e1685f
 #EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
 http://192.168.0.100:4000/rtp/238.1.78.124:6864
 #EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="其他",阜阳公共
