@@ -36,9 +36,9 @@ http://live.wqwqwq.sbs/ysptp/cctv16.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.0.100:4000/rtp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="央视",TVBS HD
-https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv073
+https://kan.dawei.eu.org/?id=183
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="央视", 中天新聞台
-https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv009
+https://kan.dawei.eu.org/?id=30
 #EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
 http://192.168.0.100:4000/rtp/238.1.78.124:6864
 #EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="其他",阜阳公共
