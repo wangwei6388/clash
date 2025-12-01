@@ -38,7 +38,7 @@ http://192.168.0.100:4000/rtp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="央视",TVBS HD
 http://cnlive.org/channel/154f9d73/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="央视", 中天新聞台
-https://4gtvmobile-mozai.4gtv.tv/y2Julxl8VRrChRdPw3p3X-6scL0Y2CyB5otNgIsy_-s%3d/index.m3u8?token=cVMbRocydNaW2j3Hp-xSHQ&expires=1764439657&token1=w-aYfLscbfJmIIIPY6raLQ&expires1=1764439657&refer=MWIxYzkwNTAtYmFkOS00ZjY5LWIzNWItZjRmYzU0YWYxNDNl&y=0
+http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="央视",三立新聞
 https://4gtvmobile-mozai.4gtv.tv/xK__qbXLp04aecDzS4IT-3VJTW55JIpnSwfSEmcIt5U%3d/index.m3u8?token=5zpDp1D0JILJygnbV8FA8Q&expires=1764439622&token1=lkKKCptDvCOVlgTeSbcAjA&expires1=1764439622&refer=NDA3OGQwODUtNGI1Ni00ZWYwLWJlNzItYWViMGU1YmFiMjQ5&y=0
 #EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
