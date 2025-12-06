@@ -36,7 +36,7 @@ http://live.wqwqwq.sbs/ysptp/cctv16.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.0.100:4000/rtp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="央视",TVBS HD
-https://4gtvmobile-mozai.4gtv.tv/Fknk0B86wTVL-Kw2dfkt6OZkcFymaHnulhHOU357FU8%3d/index.m3u8?
+https://4gtvmobile-mozai.4gtv.tv/Fknk0B86wTVL-Kw2dfkt6OZkcFymaHnulhHOU357FU8%3d/index.m3u8?token=vBUKjn50DZgyN04BS8eIsg&expires=1764990630&token1=bihBebvcyD4pLx7UPh_gGA&expires1=1764990630&refer=ZWE4MWMyNmEtNGVjMS00OTE3LTlkOTQtNzY0NTQwM2Y3NWNj&y=0
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="央视", 中天新聞台
 http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="央视",三立新聞
