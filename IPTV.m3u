@@ -41,6 +41,10 @@ https://4gtvmobile-mozai.4gtv.tv/Fknk0B86wTVL-Kw2dfkt6OZkcFymaHnulhHOU357FU8%3d/
 http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="央视",三立新聞
 http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="央视",爱上4K
+http://www.hkyc.site:1991/rtp/239.253.64.243:5140
+#EXTINF:-1,tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://epg.112114.xyz/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://www.hkyc.site:1991/rtp/239.253.64.60:5140
 #EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
 http://192.168.0.100:4000/rtp/238.1.78.124:6864
 #EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="其他",阜阳公共
