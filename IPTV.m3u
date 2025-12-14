@@ -45,6 +45,12 @@ http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
 http://www.hkyc.site:1991/rtp/239.253.64.243:5140
 #EXTINF:-1,tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://epg.112114.xyz/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
 http://www.hkyc.site:1991/rtp/239.253.64.60:5140
+#EXTINF:-1,tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://epg.112114.xyz/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
+http://www.hkyc.site:1991/rtp/239.253.64.92:5140
+#EXTINF:-1,tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://epg.112114.xyz/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
+http://www.hkyc.site:1991/rtp/239.253.64.63:5140
+#EXTINF:-1,tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://epg.112114.xyz/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K
+http://www.hkyc.site:1991/rtp/239.253.64.62:5140
 #EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" tvg-logo="https://epg.112114.xyz/logo/阜阳新闻.png" group-title="其他",阜阳新闻
 http://192.168.0.100:4000/rtp/238.1.78.124:6864
 #EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" tvg-logo="https://epg.112114.xyz/logo/阜阳公共.png" group-title="其他",阜阳公共
