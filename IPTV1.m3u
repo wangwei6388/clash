@@ -38,7 +38,7 @@ http://www.hkyc.site:1991/udp/239.253.64.67:5140
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="央视",TVBS HD
 http://uvyuptdxappu.ap-northeast-1.clawcloudrun.com/litv.php?token=dawei&id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="央视", 中天新聞台
-http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
+http://uvyuptdxappu.ap-northeast-1.clawcloudrun.com/litv.php?token=dawei&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://epg.112114.xyz/logo/三立新聞.png" group-title="央视",三立新聞
 http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="央视",爱上4K
