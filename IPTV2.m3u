@@ -58,6 +58,10 @@ http://192.168.0.100:4000/rtp/238.1.78.243:7816
 http://192.168.0.100:4000/rtp/238.1.78.222:7648
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://192.168.0.100:4000/rtp/238.1.78.178:7296
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="央视",TVBS HD
+http://uvyuptdxappu.ap-northeast-1.clawcloudrun.com/litv.php?token=dawei&id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="央视", 中天新聞台
+http://uvyuptdxappu.ap-northeast-1.clawcloudrun.com/litv.php?token=dawei&id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="📺央视频道",CCTV电视指南
 http://192.168.0.100:4000/rtp/238.1.79.53:4560
 #EXTINF:-1 tvg-name="CTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="📺央视频道",CTV央视文化精品
