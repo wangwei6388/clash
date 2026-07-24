@@ -188,3 +188,13 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000037
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000049
 #EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="央视",CCTV央视台球HD
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047
+#国际频道
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://tb.zbds.top/logo/凤凰中文.png" group-title="卫视频道",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+http://ccav.zone.id/php/fh.php?id=2
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://tb.zbds.top/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+http://ccav.zone.id/php/fh.php?id=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://tb.zbds.top/logo/凤凰香港.png" group-title="卫视频道",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+http://ccav.zone.id/php/fh.php?id=3
