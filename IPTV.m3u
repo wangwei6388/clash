@@ -10,7 +10,7 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5HD
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+HD
-http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
+http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6HD
 http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000005
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7HD
